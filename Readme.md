@@ -74,8 +74,7 @@ A developer who loves solving real-world problems with:
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: *(Add link)*
-- 📧 Email: **arpitnakrani...@gmail.com** *(Add exact email)*
-- 🎮 Game Projects: *(Add portfolio link if any)*
+- 📧 Email: **arpitnakrani...@gmail.com** 
 
 ---
 
