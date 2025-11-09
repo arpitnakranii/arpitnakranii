@@ -73,7 +73,7 @@ A developer who loves solving real-world problems with:
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(Add link)*
+- 💼 LinkedIn: *www.linkedin.com/in/nakrani-arpit*
 - 📧 Email: **arpitnakrani...@gmail.com** 
 
 ---
